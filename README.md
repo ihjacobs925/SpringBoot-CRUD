@@ -70,12 +70,12 @@
 
 > ## Employee Management System 
 > ### Home Page
-> ![Home Page](../img/home.png)
+> ![Home Page](../SpringBoot-CRUD/img/home.png)
 > ### Create
-> ![Create](../img/create.png)
+> ![Create](../SpringBoot-CRUD/img/create.png)
 > ### Read
-> ![Read](../img/read.png)
+> ![Read](../SpringBoot-CRUD/img/read.png)
 > ### Update
-> ![Update](../img/update.png)
+> ![Update](../SpringBoot-CRUD/img/update.png)
 > ### Delete
-> ![Delete](../img/delete.png)
+> ![Delete](../SpringBoot-CRUD/img/delete.png)
