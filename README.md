@@ -63,7 +63,7 @@
 >> * [EmployeeRepository.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/repository/EmployeeRepository.java)
 >
 > #### Application Properties 
->> * [application.properties](./springboot2-jpa-crud/src/resources/application.properties)
+>> * [application.properties](./springboot2-jpa-crud/src/main/resources/application.properties)
 > 
 > #### Spring Boot Application 
 >> * [Springboot2JpaCrudApplication.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/Springboot2JpacrudApplication.java)
