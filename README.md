@@ -45,37 +45,37 @@
 ## File Directory 
 > ### Spring Boot Server
 > #### Controller Layer 
->>[controller](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/controller)
->> * [EmployeeController.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/controller/EmployeeController.java)
+>>[controller](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/controller)
+>> * [EmployeeController.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/controller/EmployeeController.java)
 >
 > #### Exception Handling 
->>[exception](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception)
->> * [ErrorDetails.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception/ErrorDetails.java)
->> * [GlobalExceptionHandler.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception/GlobalExceptionHandler.java)
->> * [ResourceNotFoundException.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception/ResourceNotFoundException.java) 
+>>[exception](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception)
+>> * [ErrorDetails.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception/ErrorDetails.java)
+>> * [GlobalExceptionHandler.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception/GlobalExceptionHandler.java)
+>> * [ResourceNotFoundException.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/exception/ResourceNotFoundException.java) 
 >
 > #### Model Layer
->>[model](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/model)
->> * [Employee.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/model/employee.java)
+>>[model](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/model)
+>> * [Employee.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/model/employee.java)
 >
 > #### Repository Layer 
->>[respository](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/repository)
->> * [EmployeeRepository.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/repository/EmployeeRepository.java)
+>>[respository](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/repository)
+>> * [EmployeeRepository.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/repository/EmployeeRepository.java)
 >
 > #### Application Properties 
->> * [application.properties](./SpringBoot-CRUD/springboot2-jpa-crud/src/resources/application.properties)
+>> * [application.properties](./springboot2-jpa-crud/src/resources/application.properties)
 > 
 > #### Spring Boot Application 
->> * [Springboot2JpaCrudApplication.java](./SpringBoot-CRUD/springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/Springboot2JpacrudApplication.java)
+>> * [Springboot2JpaCrudApplication.java](./springboot2-jpa-crud/src/main/java/net/guides/springboot2/springboot2jpacrud/Springboot2JpacrudApplication.java)
 
 > ## Employee Management System 
 > ### Home Page
-> ![Home Page](./SpringBoot-CRUD/img/home.png)
+> ![Home Page](./img/home.png)
 > ### Create
-> ![Create](./SpringBoot-CRUD/img/create.png)
+> ![Create](./img/create.png)
 > ### Read
-> ![Read](./SpringBoot-CRUD/img/read.png)
+> ![Read](./img/read.png)
 > ### Update
-> ![Update](./SpringBoot-CRUD/img/update.png)
+> ![Update](./img/update.png)
 > ### Delete
-> ![Delete](./SpringBoot-CRUD/img/delete.png)
+> ![Delete](./img/delete.png)
